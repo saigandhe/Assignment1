@@ -19,6 +19,7 @@ public class CUI {
 				//String u =sc.nextLine();
 				//String p =sc.nextLine();
 				System.out.println("Welcome" +userid);
+				System.exit(0);
 				System.out.println("Enter Again");
 				flag++;
 			}
